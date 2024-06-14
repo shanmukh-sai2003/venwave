@@ -40,10 +40,6 @@ export function NavBar() {
 		<header className="relative w-full bg-white">
 			<div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-2 sm:px-6 lg:px-8 my-8">
 				<div className="inline-flex items-center space-x-2">
-					<span>
-						{/* <img src={logo} alt="venwave-logo" /> */}
-					</span>
-					{/* <span className="font-bold text-green-500">VENWAVE</span> */}
 					<img src={logo} alt="venwave logo" className='w-[225px]'/>
 				</div>
 				<div className='flex gap-10 items-center'>

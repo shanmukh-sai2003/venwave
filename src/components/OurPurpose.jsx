@@ -27,22 +27,22 @@ function OurPurpose() {
           </div>
         </div>
       </section>
-      <section className='flex ml-[200px] justify-between gap-32 my-32'>
+      <section className='flex ml-[200px] justify-between gap-32 mt-32 mb-20'>
         <div className='w-[35%]'>
           <h1 className='font-bold text-4xl'>Why <span className='text-[#53B053]'>VENWAVE</span>?</h1>
           <img src={logoImage} alt="venwave logo" className='my-[70px] float-right'/>
         </div>
         <div>
-          <div className='h-fit pl-24 py-8 rounded-tl-full rounded-bl-full shadow-[4px_4px_10px_5px_#53B05340] mb-10'>
-            <h3  className='font-bold text-2xl mb-2 w-fit'>Tailored Solutions:</h3>
+          <div className='h-fit pl-24 py-8 rounded-tl-full rounded-bl-full shadow-[0px_0px_10px_5px_#53B053] mb-10'>
+            <h3  className='font-semibold text-2xl mb-2 w-fit'>Tailored Solutions:</h3>
             <p className='text-lg text-[#212529] w-[75%]'>Find consultancy firms that understand the unique challenges and opportunities of your industry.</p>
           </div>
-          <div className='h-fit pl-24 py-5 rounded-tl-full rounded-bl-full shadow-[4px_4px_10px_5px_#53B05340] my-10'>
-            <h3  className='font-bold text-2xl mb-2 w-fit'>Budget-Friendly:</h3>
+          <div className='h-fit pl-24 py-5 rounded-tl-full rounded-bl-full shadow-[0px_0px_10px_5px_#53B053] my-10'>
+            <h3  className='font-semibold text-2xl mb-2 w-fit'>Budget-Friendly:</h3>
             <p className='text-lg text-[#212529] w-[75%]'>Connect with consultancy services that fit your financial parameters, enabling you to invest in growth without financial strain.</p>
           </div>
-          <div className='h-fit pl-24 py-8 rounded-tl-full rounded-bl-full shadow-[4px_4px_10px_5px_#53B05340] my-10'>
-            <h3  className='font-bold text-2xl mb-2 w-fit'>Verified Experts:</h3>
+          <div className='h-fit pl-24 py-8 rounded-tl-full rounded-bl-full shadow-[0px_0px_10px_5px_#53B053] my-10'>
+            <h3  className='font-semibold text-2xl mb-2 w-fit'>Verified Experts:</h3>
             <p className='text-lg text-[#212529] w-[75%]'>Gain access to a curated network of consultancy firms with proven expertise and a track record of success.</p>
           </div>
         </div>
