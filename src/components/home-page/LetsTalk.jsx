@@ -13,6 +13,7 @@ function LetsTalk() {
                     <p>Write to us</p>
                 </div>
                 <p>hello@venwave.com</p>
+                <p>+91 93925 16148</p>
                 <p className='text-[#356935] my-4 text-lg'>We are available on all days between 10 AM to 7PM</p>
             </div>
         </section>
