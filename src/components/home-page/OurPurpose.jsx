@@ -1,7 +1,7 @@
 import React from 'react';
-import ourPurposeImage from '../assets/ourPurpose.jpg';
-import readyToElevate from '../assets/readyToElevate.jpg';
-import logoImage from '../assets/primary-logo.svg';
+import ourPurposeImage from '../../assets/ourPurpose.jpg';
+import readyToElevate from '../../assets/readyToElevate.jpg';
+import logoImage from '../../assets/primary-logo.svg';
 
 function OurPurpose() {
   return (

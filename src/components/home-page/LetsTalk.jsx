@@ -1,4 +1,4 @@
-import gmailIcon from '../assets/gmail.svg';
+import gmailIcon from '../../assets/gmail.svg';
 
 function LetsTalk() {
     return (

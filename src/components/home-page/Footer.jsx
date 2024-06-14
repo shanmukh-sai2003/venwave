@@ -1,8 +1,8 @@
-import venwaveLogo from '../assets/secondary-logo.svg';
-import locationIcon from '../assets/location.svg';
-import linkedinIcon from '../assets/linkedIn.svg';
-import twitterIcon from '../assets/twitter.svg';
-import youtubeIcon from '../assets/youtube.svg';
+import venwaveLogo from '../../assets/secondary-logo.svg';
+import locationIcon from '../../assets/location.svg';
+import linkedinIcon from '../../assets/linkedIn.svg';
+import twitterIcon from '../../assets/twitter.svg';
+import youtubeIcon from '../../assets/youtube.svg';
 
 function Footer() {
     return (

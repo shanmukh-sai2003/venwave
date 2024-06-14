@@ -1,6 +1,6 @@
 import React from 'react';
 import { Menu, X } from 'lucide-react';
-import logo from '../assets/secondary-logo.svg';
+import logo from '../../assets/secondary-logo.svg';
 
 const menuItems = [
 	{
