@@ -1,5 +1,5 @@
 import React from 'react';
-import ourPurposeImage from '../../assets/ourPurpose.svg';
+import ourPurposeImage from '../../assets/ourPurpose.png';
 import readyToElevate from '../../assets/readyToElevate.png';
 import logoImage from '../../assets/primary-logo.svg';
 
