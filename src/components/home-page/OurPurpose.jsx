@@ -1,13 +1,13 @@
 import React from 'react';
-import ourPurposeImage from '../../assets/ourPurpose.jpg';
-import readyToElevate from '../../assets/readyToElevate.jpg';
+import ourPurposeImage from '../../assets/ourPurpose.svg';
+import readyToElevate from '../../assets/readyToElevate.png';
 import logoImage from '../../assets/primary-logo.svg';
 
 function OurPurpose() {
   return (
     <>
       <section className="flex justify-center items-center p-6 my-10">
-        <div className="grid grid-cols-1 md:grid-cols-2 max-w-6xl w-full my-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 max-w-6xl w-full my-8 gap-10">
           <div className="flex flex-col justify-center">
             <p className="leading-[70px] text-[2.5rem] font-bold">
               Building a bridge between <span className='text-[#53B053]'>consultancy firms</span> and <span className='text-[#53B053]'>SME's</span>
